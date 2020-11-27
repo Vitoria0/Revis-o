@@ -9,6 +9,7 @@
 
 metragem  =  float ( input ( 'INFORME QUANTOS MT² POSSUI A ÁREA A SER PINTADA:' ))
 
+        # Não consegui rodar o código, não está identado incorretamente e tem variáveis com espaço indevido.
 
 # cálculo para latas exigido e valor de custo utilizando latas de 18 litros
 litros_necess á rios  =  metragem  /  6
