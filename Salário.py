@@ -4,7 +4,8 @@
 salario_hora = int(input('Quanto você recebe por hora? '))
 horas_mes = int(input('Quantas horas você trabalha por mês? '))
 salario_bruto = salario_hora * horas_mes
-imposto_renda = salario_hora * 11 / 100
+imposto_renda = salario_hora * 11 / 100  # Alterar as variaveis: imposto_renda, inss e sindicato.
+#                                          As expressões estão trocadas, deve ser: "salario_bruto" ao inves de: "salario_hora".
 inss = salario_hora * 8 / 100
 sindicato = salario_hora * 5 / 100
 salario_liquido = salario_bruto - imposto_renda - inss - sindicato

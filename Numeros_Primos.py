@@ -1,6 +1,8 @@
 # Faça um programa que gera uma lista dos números primos existentes entre 1 e
 # um número inteiro de dados pelo usuário.
 
+        # Código complexo na minha visão, não consegui compreender.
+
 n = int(input('Digite um número: '))
 tot = 0
 for c in range(1, n + 1, +1):

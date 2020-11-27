@@ -2,6 +2,8 @@
 # quantos espaços em branco existem na frase.
 # aparecem vezes como vogais a, e, i, o, u.
 
+    # Bom codigo, só o print final que ficou vazio, e acaba dando erro no codigo.
+
 palavras = []
 palavras.append(input('Digite uma frase: '))
 #vogais = ('a', 'e', 'i', 'o', 'u')
